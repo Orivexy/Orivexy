@@ -16,4 +16,4 @@ del banco y marca cada pago como correcto, de otro titular o sin certificado. To
 
 ![ORIVEXY Validator](https://orivexy.github.io/img/banner_en.gif)
 
-Contact: thelexy902@gmail.com
+Contact: ericmunizgeneb@gmail.com

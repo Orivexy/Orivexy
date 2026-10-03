@@ -9,7 +9,7 @@ del banco y marca cada pago como correcto, de otro titular o sin certificado. To
 
 | | |
 |---|---|
-| 🧩 Odoo 15 · 16 · 17 · 18 · 19 · 20 | [Buy on Odoo Apps · €29.99](https://apps.odoo.com/apps/modules/18.0/orivexy_validator) |
+| 🧩 Odoo 15 · 16 · 17 · 18 · 19 · 20 | [Buy on Odoo Apps · €120](https://apps.odoo.com/apps/modules/18.0/orivexy_validator) |
 | 🖥️ Desktop app for Windows, macOS and Linux | Included, installed from Odoo in one command |
 | ▶️ Try it without signing up | [Live demo](https://orivexy.github.io/demo/) |
 | 🌐 Website | [English](https://orivexy.github.io/en/) · [Español](https://orivexy.github.io/) |

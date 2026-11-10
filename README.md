@@ -1,4 +1,4 @@
-## ORIVEXY Validator
+## ORIVEXY Verify
 
 **Before you pay, check every IBAN belongs to the right person.**
 It matches your payment batch against the bank's account ownership certificate and flags, payment by payment,
@@ -9,11 +9,11 @@ del banco y marca cada pago como correcto, de otro titular o sin certificado. To
 
 | | |
 |---|---|
-| 🧩 Odoo 15 · 16 · 17 · 18 · 19 · 20 | [Buy on Odoo Apps · €120](https://apps.odoo.com/apps/modules/18.0/orivexy_validator) |
+| 🧩 Odoo 15 · 16 · 17 · 18 · 19 · 20 | [Buy on Odoo Apps · €249 one-time](https://apps.odoo.com/apps/modules/18.0/orivexy_validator) |
 | 🖥️ Desktop app for Windows, macOS and Linux | Included, installed from Odoo in one command |
 | ▶️ Try it without signing up | [Live demo](https://orivexy.github.io/demo/) |
 | 🌐 Website | [English](https://orivexy.github.io/en/) · [Español](https://orivexy.github.io/) |
 
-![ORIVEXY Validator](https://orivexy.github.io/img/banner_en.gif)
+![ORIVEXY Verify](https://orivexy.github.io/img/banner_en.gif)
 
 Contact: ericmunizgeneb@gmail.com
